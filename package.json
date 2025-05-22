@@ -17,13 +17,7 @@
     "puppeteer": "^24.9.0"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "typescript": "^5",
     "eslint": "^8",
-    "eslint-config-next": "14.2.3",
-    "@types/node-cron": "^3.0.11",
-    "@types/pg": "^8.15.2"
+    "eslint-config-next": "14.2.3"
   }
 }

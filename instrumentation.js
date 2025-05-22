@@ -1,4 +1,4 @@
-// instrumentation.ts
+// instrumentation.js
 import { initializeScheduledJobs } from './lib/scheduler'; // if lib is at root
 // import { initializeScheduledJobs } from '@/lib/scheduler'; // if using src dir and alias
 
